@@ -99,6 +99,26 @@ hr {
   margin: 1.5em 0 1.5em;
 }
 
+logo {
+    float: left;
+    width: 220px;
+    height: 120px;
+    cursor: pointer;
+    cursor: hand;
+    background-image:url(kangram.github.io/67830485_371711583508613_7081536743295418368_n.png);
+    background-repeat: no-repeat;
+}
+superior {
+    float: left;
+    width: 1005px;
+    height: 60px;
+}
+inferior {
+    float: left;
+    width: 1005px;
+    height: 60px;
+
+}
 .header h1 {
   font-size: 2.6em;
   /*text-align: center;*/
