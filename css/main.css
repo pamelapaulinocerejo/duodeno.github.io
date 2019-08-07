@@ -56,6 +56,16 @@ h1 {
   margin: 0.4em 0;
 }
 
+logo {
+    float: left;
+    width: 220px;
+    height: 120px;
+    cursor: pointer;
+    cursor: hand;
+    background-image:url(kangram.github.io/67830485_371711583508613_7081536743295418368_n.png);
+    background-repeat: no-repeat;
+}
+
 h2 {
   font-size: 1.2em;
   font-weight: 400;
