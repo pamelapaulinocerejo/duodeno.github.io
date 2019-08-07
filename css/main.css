@@ -13,12 +13,12 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-/*.content-wrap {
- /* width: 34em;
+content-wrap {
+  width: 34em;
   margin: 0 auto;
   margin-left: 10%;
   margin-right: 10%;
-}*/
+}
 
 body, a {
   color: #171717;
