@@ -24,7 +24,7 @@ body, a {
   color: #171717;
 }
 
-#iframe{
+iframe{
   width: 100%;
   height: 1000px;
 }
@@ -54,16 +54,6 @@ h1 {
   font-style: italic;
   font-weight: 400;
   margin: 0.4em 0;
-}
-
-logo {
-    float: left;
-    width: 220px;
-    height: 120px;
-    cursor: pointer;
-    cursor: hand;
-    background-image:url(kangram.github.io/67830485_371711583508613_7081536743295418368_n.png);
-    background-repeat: no-repeat;
 }
 
 h2 {
